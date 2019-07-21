@@ -8,5 +8,6 @@
 
 import Foundation
 
-print("Hello, World!")
+let array = [7, 2, 6, 3, 9]
+print(mergeSort(array))
 
